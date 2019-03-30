@@ -1,0 +1,93 @@
+#mini-container{
+
+    border: 3px solid yellow;
+    width: 60%;
+    background-color:black;
+   
+}
+
+#Topic-form {
+
+    margin: 5px;
+}
+
+.btn {
+
+    background-color: black;
+    color:beige;
+    margin: 5px 0;
+}
+
+.card-title{
+
+    font-size: 20px;
+    color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.gif {
+
+    height: 300px;
+}
+
+.gif:hover {
+
+    cursor: pointer;
+}
+
+.card-body {
+
+    background-color: black;
+    color: beige;
+}
+
+body {
+
+    background-image: url("../images/bag.png")
+    background-color: black;
+}
+
+.title {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: beige;
+    background-color: black;
+    width: auto;
+    border: beige solid 2px;
+    text-align: center;
+}
+
+h1.title {
+
+     color: #ff004c;
+     font-size: 30px;
+     border: #ff004c solid 2px;
+    
+}
+
+.fav, .fav2:hover{
+
+    font-size: 20px;
+    float: right;
+    position: absolute;
+    top: 0px;
+    right: 5px;
+    color: white;
+    cursor: pointer;
+}
+
+.fav2, .fav:hover {
+
+
+    font-size: 40px;
+    float: right;
+    position: absolute;
+    top: 0px;
+    right: 5px;
+    color: #ff004c;
+   
+}
+
+
+
